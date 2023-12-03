@@ -60,8 +60,94 @@
     padding: 10px 20px;
     border: none;
     border-radius: 10px;
+    margin-top: 10px;
 }
 
 .banner-img{
     width: 300px;
+}
+
+.and-part-heading{
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 50px;
+    color: white;
+    
+}
+.and-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+    flex-direction: row-reverse;
+    padding: 10px;
+}
+.image-class{
+    width: 300px;
+    
+}
+.heading-paragraph{
+    
+}
+.second-part{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+.pera-style{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 3px;
+}
+.box{
+    width: 230px;
+    height: 280px;
+    text-align: center;
+    box-shadow: 10px 10px 30px gray;
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+.icon{
+    width: 70px;
+}
+.box-title{
+    padding: 10px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    height: 450px;
+    padding: 40px;
+    
+}
+.third-section{
+    background-color: #0f0d0d;
+}
+.footer-section{
+    display: flex;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+.footer-div{
+    height: 200px;
+    width: 200px;
+}
+.footer-heading{
+    padding: 10px;
+}
+.foot-class{
+    width: 350px;
+    text-align: left;
+}
+.last-part{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
 }
